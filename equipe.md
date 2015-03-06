@@ -22,7 +22,7 @@ permalink: /equipe/
 	<img src="../images/Rafael.jpg">
 	<h3>Rafael Tavares</h3><br>
 	<h4>Diretor Vice-Presidente</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
@@ -34,7 +34,7 @@ permalink: /equipe/
 	<img src="../images/Victor.jpg">
 	<h3>Victor Hugo</h3><br>
 	<h4>Diretor de Projetos</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
@@ -46,7 +46,7 @@ permalink: /equipe/
 	<img src="../images/Jair.jpg">
 	<h3>Jair Anderson</h3><br>
 	<h4>Diretor Financeiro</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
@@ -58,7 +58,7 @@ permalink: /equipe/
 	<img src="../images/Julierme.jpg">
 	<h3>Julierme Oliver</h3><br>
 	<h4>Diretor de Marketing</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
@@ -70,7 +70,7 @@ permalink: /equipe/
 	<img src="../images/Michelle.jpg">
 	<h3>Michelle Oliveira</h3><br>
 	<h4>Diretora de Qualidade</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
@@ -82,7 +82,7 @@ permalink: /equipe/
 	<img src="../images/Priscila.jpg">
 	<h3>Priscila Gouveia</h3><br>
 	<h4>Diretora de Recursos Humanos</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
@@ -94,7 +94,7 @@ permalink: /equipe/
 	<img src="../images/Diogo.jpg">
 	<h3>Diogo Moreira</h3><br>
 	<h4>Professor Orientador</h4><br><br>
-	<p><br><br><br><br>
+	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
 		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
