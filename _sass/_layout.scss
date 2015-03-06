@@ -50,16 +50,7 @@
         background-color: black;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
-
-        .page-link a{
-            color:#446CB3;            
-            border: 0px;
-
-            :hover{
-                text-decoration:underline;
-            }            
-        }
+        text-align: right;        
 
         .menu-icon {
             display: block;
