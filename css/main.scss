@@ -58,7 +58,16 @@ $on-laptop:        800px;
 .site-header .trigger a{
 	color:white;
 	padding:10px;
-	border: 2px solid rgba(0,0,0,0);	
+	border: 2px solid rgba(0,0,0,0);
+	border-radius:5px;	
+}
+
+.site-header .site-title{
+	padding:40px;
+}
+
+.site-header .menu-icon{
+	background-color:#4086FF;
 }
 
 .site-header .trigger a:hover{
