@@ -174,7 +174,8 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-    h2{
+    
+   > li h2{
         display:inline;
     }
 
