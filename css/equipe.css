@@ -1,0 +1,30 @@
+.membro{
+	border-top: 1px solid white;
+	padding:10px;
+	background-color: #F3F3F3;
+}
+
+.membro h5{
+	color:#446CB3;
+}
+
+.membro > *{
+	display: inline;	
+}
+
+.membro > img{
+	width:70px;
+	height: 70px;	
+	border-radius: 5px;	
+	float: left;
+	margin-right:10px;
+}
+
+.membro .contato img{
+	text-align: right;
+	float:right;
+	width:20px;
+	margin: 10px;
+	position:relative;
+	bottom: 50px;
+}
