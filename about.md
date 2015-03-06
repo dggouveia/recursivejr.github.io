@@ -4,8 +4,8 @@ title: Quem somos
 permalink: /quemsomos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+A Recursive é uma empresa sediada no campus do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba da cidade de Cajazeiras que atua em diversas áreas do ramo do desenvolvimento de software. A nossa empresa é uma associação civil que tem a finalidade de proporcionar aos seus membros efetivos as condições necessárias para que estes sejam capazes de colocar em prática os conhecimentos teóricos relativos à sua área de formação profissional, além de dar a sociedade o retorno dos investimentos que ela realiza na Instituição de Ensino, através de serviços de alta qualidade, realizados por profissionais da Área de Análise e Desenvolvimento de Sistemas do curso de graduação do campus.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Nós incentivamos a capacidade empreendedora do aluno, dando a ele uma visão profissional já no âmbito acadêmico. Desta forma exaltamos o IFPB, seu corpo docente e discente perante o mercado e a sociedade, buscando sempre promover atividades de caráter instrutivo, científico e social de acordo com os preceitos de estudo, pesquisa e extensão universitária da instituição de ensino em que a associação se insere, para assim incentivar a integração social e profissional de seus membros, segundo princípios de ética, cidadania e justiça.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Através de processos de produção e padrões de qualidade adotados pelo mercado, a Recursive é uma empresa focada na qualidade dos seus produtos e a satisfação dos seus clientes, que busca reinvestir os recursos financeiros oriundos da prestação de serviço na capacitação, treinamento e desenvolvimento acadêmico de seus membros efetivos para que estes possam construir produtos cada vez melhores e modernos.
