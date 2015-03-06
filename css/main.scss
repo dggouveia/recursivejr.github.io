@@ -54,3 +54,14 @@ $on-laptop:        800px;
 .site-header{
 	background-color:#446CB3;
 }
+
+.site-header .trigger a{
+	color:white;
+	padding:10px;
+	border: 2px solid rgba(0,0,0,0);
+	:hover{
+		text-decoration:none;
+		border-color:white;
+		transition-duration: 0.5s;
+	}
+}
