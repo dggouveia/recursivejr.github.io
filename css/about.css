@@ -4,6 +4,7 @@
 	background-color: #F3F3F3;
 	border-radius: 5px;
 	margin-left: 10px;
+	width:270px;
 }
 
 .membro{
@@ -11,7 +12,14 @@
 	padding:10px;
 }
 
+.membro > *{
+	display: inline;	
+}
+
 .membro img{
-	width:60px;	
-	border-radius: 5px;
+	width:70px;
+	height: 70px;	
+	border-radius: 5px;	
+	float: left;
+	margin-right:10px;
 }

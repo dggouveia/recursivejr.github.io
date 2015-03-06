@@ -6,46 +6,53 @@ permalink: /quemsomos/
 <link href="../css/about.css" type="text/css" rel="stylesheet"> 
 
 <div class="equipe">
-	<h3>Nossa equipe</h3>
+	<h3>Diretoria</h3>
 	<div class="membro">
 		<img src="../images/DouglasGabriel.png">
-		<h4>Douglas Gabriel</h4>
-		<small>Diretor Presidente</small>
+		<h4>Douglas Gabriel</h4><br>
+		Diretor Presidente
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Rafael.jpg">
-		<h4>Rafael Tavares</h4>
-		<small>Diretor Vice-Presidente</small>
+		<h4>Rafael Tavares</h4><br>
+		Diretor Vice-Presidente
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Victor.jpg">
-		<h4>Victor Hugo</h4>
-		<small>Diretor de Projetos</small>
+		<h4>Victor Hugo</h4><br>
+		Diretor de Projetos
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Jair.jpg">
-		<h4>Jair Anderson</h4>
-		<small>Diretor Financeiro</small>
+		<h4>Jair Anderson</h4><br>
+		Diretor Financeiro
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Priscila.jpg">
-		<h4>Priscila Gouveia</h4>
-		<small>Diretora de RH</small>
+		<h4>Priscila Gouveia</h4><br>
+		Diretora de RH
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Michelle.jpg">
-		<h4>Michelle Oliveira</h4>
-		<small>Diretora de Qualidade</small>
+		<h4>Michelle Oliveira</h4><br>
+		Diretora de Qualidade
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Julierme.jpg">
-		<h4>Julierme Oliver</h4>
-		<small>Diretor de Marketing</small>
+		<h4>Julierme Oliver</h4><br>
+		Diretor de Marketing
 	</div>
+	<br>
 	<div class="membro">
 		<img src="../images/Diogo.jpg">
-		<h4>Diogo Moreira</h4>
-		<small>Professor Orientador</small>
+		<h4>Diogo Moreira</h4><br>
+		Professor Orientador
 	</div>
 </div>
 
