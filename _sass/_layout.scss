@@ -47,12 +47,12 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: black;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
 
-        .site-header .trigger a{
+        .page-link a{
             color:#446CB3;            
             border: 0px;
 
