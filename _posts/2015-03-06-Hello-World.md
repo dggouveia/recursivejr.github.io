@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Init Blog"
+title:  "Hello World!"
 date:   2015-03-06 14:29:42
 author: Douglas Gabriel
 categories: jekyll update
