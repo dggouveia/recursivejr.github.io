@@ -6,10 +6,6 @@ author: Victor Hugo da Silva Ribeiro
 categories: jekyll update
 ---
 
-
-# #*AlgorithmDay*: Compressão de Dados e Codificação de Huffman #
-
-
 Olá pessoal, hoje no *AlgorithmDay* estarei comentando sobre compressão de arquivos e explicando a codificação de Huffman aplicada a compressão de textos.
 
 Os arquivos comprimidos são uma benção para a maioria de nós internautas que desejamos fazer aquele *download* de músicas, filmes ou jogos e para aquelas pessoas que já precisaram armazenar um arquivo em *pen drive* ou até mesmo no *HD* e sofreram com a falta de espaço disponível para armazenamento.
