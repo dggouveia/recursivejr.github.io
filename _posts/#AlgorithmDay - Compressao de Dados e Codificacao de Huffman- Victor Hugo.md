@@ -1,8 +1,10 @@
-
-----------
-layout: post title: "Compressão de Dados e Codificação de Huffman" date: 2015-04-02 15:54:00 author: Victor Hugo da Silva Ribeiro
-
-## categories: jekyll update ##
+---
+layout: post
+title:  "#AlgorithmDay: Compressão de Dados e Codificação de Huffman"
+date:   2015-04-02 16:12:00
+author: Victor Hugo da Silva Ribeiro
+categories: jekyll update
+---
 
 
 # #*AlgorithmDay*: Compressão de Dados e Codificação de Huffman #
