@@ -8,7 +8,9 @@ categories: jekyll update
 
 Saudações,
 
-Neste post falarei de forma simples como criar um Blog hospedado no [GitHub][github] utilizando o [Jekyll][jekyll], assim como este Blog que você está acessando.
+Como primeiro post, eu pensei: Por que não criar o primeiro post do blog, mostrando como criei este blog?
+
+Sendo assim, neste post falarei de forma simples como criar um Blog hospedado no [GitHub][github] utilizando o [Jekyll][jekyll].
 
 > Basicamente o GitHub é uma plataforma baseada em [Git][git] que oferece repositórios remotos para a hospedagem de projetos.
 
@@ -37,7 +39,7 @@ No Windows, você deve acessar [este site][rubyinstaller] e  baixar o instalador
 
 Execute o arquivo baixado e quando se deparar com esta tela, marque todas as checkboxes. 
 
-<img src="{{ site.absolute_url }}/images/rubyinstalation.png"> 
+<img src="{{ site.absolute_url }}/images/posts/rubyinstalation.png"> 
 
 com o Ruby instalado, agora será necessário instalar o Kit de Desenvolvimento, que encontra-se [no mesmo link][rubyinstaller]. Com o download realizado, descompacte o seu conteúdo dentro da pasta "devkit" dentro do diretório onde o Ruby foi instalado (se não houver esta pasta, crie).
 
