@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Utilizando GIT"
-date:   2015-04-02 12:37:42
+date:   2015-04-03 12:37:42
 author: Douglas Gabriel
 categories: jekyll update
 ---
