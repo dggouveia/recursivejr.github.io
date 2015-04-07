@@ -7,7 +7,7 @@ permalink: /equipe/
 <link href="../css/equipe.css" rel="stylesheet" type="text/css">
 
 <div class="membro">
-	<img src="../images/DouglasGabriel.png">
+	<img src="../images/DouglasGabriel.jpg">
 	<h3>Douglas Gabriel</h3><br>
 	<h4>Diretor Presidente</h4><br><br>
 	<p>Técnico em informática, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB, 20 anos. Tenho encarado minha carreira como aluno da forma mais séria possível, e agora, como integrante da Recursive, vejo minha maior oportunidade de crescimento pessoal e profissional. Assim, busco desempenhar meu papel da melhor forma possível, representando minha equipe e o Movimento Empresa Júnior.</p><br><br><br><br>
