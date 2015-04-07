@@ -4,7 +4,7 @@ title: Equipe
 permalink: /equipe/
 ---
 
-<link href="{{ site.absolute_url }}/css/equipe.css" rel="stylesheet" type="text/css">
+<link href="../css/equipe.css" rel="stylesheet" type="text/css">
 
 <div class="membro">
 	<img src="../images/DouglasGabriel.png">
