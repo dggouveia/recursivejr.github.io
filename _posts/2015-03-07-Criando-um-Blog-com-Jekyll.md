@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Funcionário do mês de Abril"
+title:  "Criando um Blog com Jekyll"
 date:   2015-03-07 14:29:42
 author: Douglas Gabriel
 categories: jekyll update
