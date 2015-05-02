@@ -55,18 +55,6 @@ permalink: /equipe/
 	</div>
 </div>
 <div class="membro">
-	<img src="../images/Julierme.jpg">
-	<h3>Julierme Oliver</h3><br>
-	<h4>Diretor de Marketing</h4><br><br>
-	<p></p><br><br><br><br>
-	<div class="contato">
-		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
-		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
-		<a href=""><img src="../images/githubicon.png" title="github"></a>
-		<a href=""><img src="../images/lattesicon.png" title="lattes"></a>
-	</div>
-</div>
-<div class="membro">
 	<img src="../images/Michelle.jpg">
 	<h3>Michelle Oliveira</h3><br>
 	<h4>Diretora de Qualidade</h4><br><br>
