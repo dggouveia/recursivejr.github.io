@@ -11,7 +11,7 @@ A Recursive começou, no mês de Abril, uma nova e divertida forma de tratar seu
 
 Neste mês de Abril, o funcionário destaque foi o nosso Diretor Presidente, Douglas Gabriel, que, além de suas responsabilidades como Presidente, ainda esteve envolvido com as estratégias de marketing da empresa, bem como, junto com o consultor Emanuel Batista, desenvolveu o site e sistema utilizado no evento ECMAT.
 
-O segundo colocado foi o consultor Wensttay, que foi o responsável pelo design das artes utilizadas na divulgação do evento ECMAT, além de ter participado da organização do evento em parceria com o SEBRAE, para despertar o lado empreendedor entre os alunos universitários.
+O segundo colocado foi o nosso Diretor de Marketing Wensttay, que foi o responsável pelo design das artes utilizadas na divulgação do evento ECMAT, além de ter participado da organização do evento em parceria com o SEBRAE, para despertar o lado empreendedor entre os alunos universitários.
 
 O terceiro colocado foi o nosso Diretor de Projetos, Victor Hugo, que, além de suas responsabilidades como diretor, ainda esteve à frente, junto com Douglas Gabriel, das melhorias desenvolvidas no SIB - Sistema Bibliotecário, fato que rendeu uma reportagem disponível [neste link][reportagem]
 
