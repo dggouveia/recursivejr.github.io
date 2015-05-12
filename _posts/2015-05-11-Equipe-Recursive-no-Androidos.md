@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#Equipe Recursive no Androidos III"
+title:  "Equipe Recursive no Androidos III"
 date:   2015-05-11 
 author: Rafael Tavares
 categories: jekyll update
