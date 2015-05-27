@@ -6,8 +6,6 @@ author: Priscila Gouveia
 categories: jekyll update
 ---
 
-<img src="{{ site.absolute_url }}/images/posts/ECMAT.jpg">
-
 No mês de maio, mais precisamente nos dias 6 a 8, ocorreu no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba – Campus Cajazeiras a segunda edição do Encontro Cajazeirense de Matemática (II ECMAT), sob organização da Coordenação do Curso de Licenciatura em Matemática, Direção Geral e Direção de Ensino do referido campus.
 
 Para o evento, foi estabelecida uma parceria entre a comissão organizadora e a Recursive Jr, que consistiu na criação de um site e materiais gráficos para divulgação e, posteriormente, um sistema para a realização das inscrições dos interessados nas atividades que aconteceram durante o evento.
