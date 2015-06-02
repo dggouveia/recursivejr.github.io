@@ -15,7 +15,7 @@ Em seguida, o destaque fica para o nosso Diretor de Marketing, Wensttay Alencar,
 
 Em terceiro lugar, encontram-se empatados os consultores Pedro Arthur, que esteve cuidando do desenvolvimento do novo site da empresa, e Dijalma Silva, que esteve a frente do desenvolvimento de um sistema de gerenciamento de processo para um de nossos clientes.
 
-Um novo mês inicia-se com toda a equipe motivada a desenvolverem grandes trabalhos, para ficar atento às novidades da empresa, curta nossa [page do Facebook][page], e para investir e participar em nossa história como nosso cliente contate-nos (contato@recursive.com.br)
+Um novo mês inicia-se com toda a equipe motivada a desenvolverem grandes trabalhos. Para ficar atento às novidades da empresa, curta nossa [page do Facebook][page], e para investir e participar de nossa história como nosso cliente contate-nos (contato@recursive.com.br)
 
 Até a próxima
 
