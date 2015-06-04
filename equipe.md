@@ -22,12 +22,12 @@ permalink: /equipe/
 	<img src="../images/Rafael.jpg">
 	<h3>Rafael Tavares</h3><br>
 	<h4>Diretor Vice-Presidente</h4><br><br>
-	<p></p><br><br><br><br>
+	<p>Técnico em informática, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB, 19 anos. Sou um entusiasta tecnológico, possuo certo fascínio pelo novo e diferente, vejo a Recursive como uma excelente oportunidade para aprimorar meus conhecimentos e uma porta de entrada para a compreensão do mercado de trabalho ao qual em breve devo adentrar-me.</p><br><br><br><br>
 	<div class="contato">
-		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
-		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
-		<a href=""><img src="../images/githubicon.png" title="github"></a>
-		<a href=""><img src="../images/lattesicon.png" title="lattes"></a>
+		<a href="https://www.facebook.com/rafael.tavares.39108"><img src="../images/facebookicon.png" title="facebook"></a>
+		<a href="https://br.linkedin.com/in/rafaeltavaresrufino"><img src="../images/linkedinicon.png" title="linkedin">	</a>
+		<a href="https://github.com/RafaelTavares95"><img src="../images/githubicon.png" title="github"></a>
+		<a href="http://lattes.cnpq.br/8176149897778161"><img src="../images/lattesicon.png" title="lattes"></a>
 	</div>
 </div>
 <div class="membro">
@@ -46,6 +46,18 @@ permalink: /equipe/
 	<img src="../images/Jair.jpg">
 	<h3>Jair Anderson</h3><br>
 	<h4>Diretor Financeiro</h4><br><br>
+	<p></p><br><br><br><br>
+	<div class="contato">
+		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
+		<a href=""><img src="../images/linkedinicon.png" title="linkedin">	</a>
+		<a href=""><img src="../images/githubicon.png" title="github"></a>
+		<a href=""><img src="../images/lattesicon.png" title="lattes"></a>
+	</div>
+</div>
+<div class="membro">
+	<img src="../images/wensttay.jpg">
+	<h3>Wensttay de Sousa</h3><br>
+	<h4>Diretor de Marketing</h4><br><br>
 	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
