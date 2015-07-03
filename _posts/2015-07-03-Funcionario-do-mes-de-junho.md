@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Funcionário do mês de Junho"
-date:   2015-06-01 14:29:42
+date:   2015-07-03 14:29:42
 categories: jekyll update
 ---
 
@@ -22,4 +22,4 @@ Até a próxima
 
 [page]:https://www.facebook.com/recursivejunior
 [androidos]:http://recursivejr.github.io/jekyll/update/2015/05/11/Equipe-Recursive-no-Androidos.html
-[funcmesmaio]:http://recursivejr.github.io/jekyll/update/2015/05/02/Funcionario-do-mes-de-maio.html
+[funcmesmaio]:http://recursivejr.github.io/jekyll/update/2015/06/01/Funcionario-do-mes-de-maio.html
