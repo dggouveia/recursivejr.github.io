@@ -31,8 +31,8 @@ permalink: /equipe/
 	</div>
 </div>
 <div class="membro">
-	<img src="../images/Victor.jpg">
-	<h3>Victor Hugo</h3><br>
+	<img src="../images/emanuel.jpg">
+	<h3>Emanuel Batista</h3><br>
 	<h4>Diretor de Projetos</h4><br><br>
 	<p></p><br><br><br><br>
 	<div class="contato">
@@ -55,9 +55,9 @@ permalink: /equipe/
 	</div>
 </div>
 <div class="membro">
-	<img src="../images/wensttay.jpg">
-	<h3>Wensttay de Sousa</h3><br>
-	<h4>Diretor de Marketing</h4><br><br>
+	<img src="../images/rodrigo.jpg">
+	<h3>Rodrigo Oliveira</h3><br>
+	<h4>Gerente de Marketing</h4><br><br>
 	<p></p><br><br><br><br>
 	<div class="contato">
 		<a href=""><img src="../images/facebookicon.png" title="facebook"></a>
