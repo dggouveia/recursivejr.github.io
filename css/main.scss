@@ -58,13 +58,14 @@ body{
 
 .site-header{
 	background-color:#446CB3;
+  background-image:url(../images/overflow.png);
 }
 
 .site-header .trigger a{
 	color:white;
 	padding:10px;
 	border: 2px solid rgba(0,0,0,0);
-	border-radius:5px;	
+	border-radius:5px;
 }
 
 .site-header .site-title{

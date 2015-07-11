@@ -10,13 +10,13 @@
 }
 
 .membro > *{
-	display: inline;	
+	display: inline;
 }
 
 .membro > img{
 	width:70px;
-	height: 70px;	
-	border-radius: 5px;	
+	height: 70px;
+	border-radius: 100%;	
 	float: left;
 	margin-right:10px;
 }
