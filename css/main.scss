@@ -57,8 +57,9 @@ body{
 }
 
 .site-header{
-	background-color:#446CB3;
-  background-image:url(../images/overflow.png);
+  background:url(../images/overflow.png) fixed center;
+  background-size: 100%;
+  background-color:#446CB3;
 }
 
 .site-header .trigger a{

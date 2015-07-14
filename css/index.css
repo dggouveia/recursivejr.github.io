@@ -1,0 +1,263 @@
+nav #slide-out {
+  background-color: #041630;
+}
+nav {
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow: 0px 0px 0px black !important;
+  z-index: -1 !important;
+}
+nav .mdi-navigation-menu {
+  background-color: #041630;
+  padding: 0px 10px;
+}
+nav img {
+  margin: 10px;
+}
+nav .navlinks {
+  margin-top: 100%;
+  text-align: center;
+}
+
+.label{
+  padding: 24px;
+  margin-left: -5px !important;
+  font-size: 1.3em;
+  border-radius: 0px;
+  border: 1px solid #DDDDDD;
+}
+
+nav i {
+  font-size: 30px !important;
+  color: #1CA8FF;
+}
+nav li:hover {
+  color: #041630 !important;
+  border-bottom: 1px solid #DDDDDD;
+}
+nav .navlinks > * {
+  padding-left: 5px !important;
+}
+
+.background-home {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100% !important;
+  min-height: 100% !important;
+  z-index: -100 !important;
+  background: url(../images/overflow.png);
+  background-size: 100%;
+}
+.black {
+  background-color: #041630 !important;
+}
+.title-section {
+  text-align: center;
+}
+.modal-content {
+  text-align: justify;
+}
+.modal-content h4 {
+  font-weight: bolder !important;
+  text-shadow: 1px 1px 1px black;
+  color: #1CA8FF;
+}
+.modal-content h5 {
+  text-shadow: 1px 1px 1px black;
+  color: #1CA8FF;
+}
+.modal-content img {
+  border-radius: 100%;
+  width: 150px;
+  margin: 0 auto;
+}
+.modal-content .header {
+  text-align: center;
+}
+.modal-footer {
+  background-color: #041630 !important;
+  box-shadow: 0px -1px 5px black;
+  text-align: right;
+}
+.modal-footer img {
+  width: 30px;
+  height: 30px;
+  margin: 5px 10px;
+}
+section {
+  padding-left: 70px;
+}
+#section-1 {
+  text-align: center;
+  min-height: 100% !important;
+}
+video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100% !important;
+  min-height: 100% !important;
+  z-index: -100 !important;
+}
+#section-1 h4 {
+  color: white;
+  margin: 3%;
+  !important
+}
+#section-1 img {
+  padding-top: 5%;
+  width: 90%;
+  height: 60%;
+}
+#section-1 a {
+  background-color: #041630;
+  color: #1CA8FF;
+  border-color: #1CA8FF;
+}
+#section-1 a:hover {
+  color: #041630;
+  background-color: #1CA8FF;
+  transition-duration: 1s;
+}
+#section-2 {
+  background-color: white;
+  height: 100% !important;
+  padding-bottom: 40px;
+  text-align: center;
+}
+#section-2 .attr {
+  width: 70%;
+  text-align: justify;
+}
+#section-2 .attr .content a {
+  background-color: white !important;
+}
+#section-2 .attr .icon {
+  background-color: #041630;
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  min-height: 210px !important;
+}
+#section-2 a {
+  background-color: #041630;
+  color: #1CA8FF;
+  border-color: #1CA8FF;
+}
+#section-2 a:hover {
+  color: #041630;
+  background-color: #1CA8FF;
+  transition-duration: 1s;
+}
+#section-3 {
+  background-color: #041630;
+  background: url(../images/overflow.png) fixed;
+  background-size: 100%;
+  text-align: center;
+  color: white;
+  padding-bottom: 40px;
+}
+#section-3 img {
+  width: 50%;
+  margin-left: 25%;
+  max-width: 200px;
+}
+#section-3 a {
+  background-color: #041630;
+  color: #1CA8FF;
+  border-color: #1CA8FF;
+}
+#section-3 a:hover {
+  color: #041630;
+  background-color: #1CA8FF;
+  transition-duration: 1s;
+}
+#section-4 {
+  text-align: center;
+  background-color: grey;
+  color: white;
+}
+#section-4 h5 {
+  text-shadow: 1px 1px 1px black;
+  font-weight: normal;
+}
+#section-4 img {
+  border-radius: 100%;
+  width: 150px;
+}
+#section-4 .modal-trigger {
+  color: white !important;
+}
+#section-5 {
+  text-align: center;
+  color: white;
+  background-color: #041630;
+}
+#section-5 p {
+  font-style: italic;
+}
+#section-6 {
+  background-color: #042040 !important;
+  text-align: center;
+}
+#section-6 img {
+  margin: 10px;
+}
+
+.backdrop {
+  background-color: #1CA8FF;
+}
+
+footer {
+  text-align: center;
+  background-color: #042757;
+  color: white;
+  padding-left: 70px;
+  font-style: italic;
+}
+@media (max-width:1035px) {
+  .background-home, #section-3 {
+    background-size: 1035px !important;
+  }
+  nav li:hover {
+    border: 0px;
+  }
+}
+@media (max-width:992px) {
+  section, footer {
+    padding-left: 0px;
+  }
+  #section-2 .attr {
+    width: 90%;
+  }
+}
+@media (max-width:661px) {
+  #section-2 .attr .icon {
+    min-height: 300px !important;
+  }
+  #section-3 img {
+    margin-left: 28%;
+  }
+}
+@media (max-width:600px) {
+  #section-1 h4 {
+    font-size: 20px;
+  }
+}
+@media (max-width:533px) {
+  #section-2 .attr .icon {
+    min-height: 400px !important;
+  }
+}
+@media (max-width:450px) {
+  .modal-footer img {
+    width: 20px;
+    height: 20px;
+    margin: 5px 5px;
+  }
+}
+@media (max-width:400px) {
+  #section-2 .attr .icon {
+    font-size: 60px;
+  }
+}
