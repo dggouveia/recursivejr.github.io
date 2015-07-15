@@ -162,8 +162,6 @@ video {
   transition-duration: 1s;
 }
 #section-3 {
-  background-color: #041630;
-  background: url(../images/overflow.png) fixed;
   background-size: 100%;
   text-align: center;
   color: white;
@@ -186,7 +184,7 @@ video {
 }
 #section-4 {
   text-align: center;
-  background-color: grey;
+  background-color: #042757;
   color: white;
 }
 #section-4 h5 {
