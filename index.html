@@ -6,23 +6,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Recursive Jr</title>
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="icon" href="images/iconSite.png">
   </head>
   <body>
   <div class="navbar-fixed">
     <nav>
-      <ul id="slide-out" class="side-nav fixed z-depth-5">
-        <img src="images/logo-nav.png" alt="">
-        <div class="navlinks">
-          <li class="tooltipped item-menu" data-position="right" data-delay="0" data-tooltip="Home"><a href="#section-1"><i class="mdi-action-home"></i></a></li>
-          <li class="tooltipped item-menu" data-position="right" data-delay="0" data-tooltip="Quem Somos"><a href="#section-2"><i class="mdi-action-info-outline"></i></a></li>
-          <li class="tooltipped item-menu" data-position="right" data-delay="0" data-tooltip="Serviços"><a href="#section-3"><i class="mdi-hardware-laptop"></i></a></li>
-          <li class="tooltipped item-menu" data-position="right" data-delay="0" data-tooltip="Equipe"><a href="#section-4"><i class="mdi-social-group"></i></a></li>
-          <li class="tooltipped item-menu" data-position="right" data-delay="0" data-tooltip="Contato"><a href="#section-5"><i class="mdi-communication-email"></i></a></li>
-        </div>
-      </ul>
-      <a href="#" data-activates="slide-out" class="button-collapse z-depth-2"><i class="mdi-navigation-menu"></i></a>
-    </nav>
+    <div class="nav-wrapper z-depth-2">
+      <div class="col s12">
+        <a href="#!" class="brand-logo"><img src="images/logo-nav.png" alt=""></a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="#section-1">Início</i></a></li>
+          <li><a href="#section-2">Quem Somos</a></li>
+          <li><a href="#section-3">Serviços</a></li>
+          <li><a href="#section-5">Contato</a></li>
+          <li><a href="mobile.html">Equipe</a></li>
+          <li><a href="mobile.html">História</a></li>
+          <li><a href="mobile.html">Arquivos</a></li>
+        </ul>
+        <ul class="side-nav" id="mobile-demo">
+          <li><a href="#section-1">Início</i></a></li>
+          <li><a href="#section-2">Quem Somos</a></li>
+          <li><a href="#section-3">Serviços</a></li>
+          <li><a href="#section-5">Contato</a></li>
+          <li><a href="mobile.html">Equipe</a></li>
+          <li><a href="mobile.html">História</a></li>
+          <li><a href="mobile.html">Arquivos</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 </div>
     <section id="section-1">
       <!-- <video autoplay loop> -->
@@ -37,10 +51,18 @@
           <br><br><br><br><br><br><br>
         </div>
       </section>
-
+      <section id="section-6">
+        <br><br>
+        <a href="blog.html" target="_blank"><img src="images/icon_blog.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Blog"></a>
+        <a href="https://www.facebook.com/recursivejunior" target="_blank"><img src="images/icon_facebook.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Facebook"></a>
+        <a href="https://twitter.com/recursivejr" target="_blank"><img src="images/icon_twitter.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Twitter"></a>
+        <a href="https://instagram.com/recursive_jr" target="_blank"><img src="images/icon_instagram.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Instagram"></a>
+        <br><br><br>
+      </section>
       <section id="section-2">
         <br><br>
         <h5 class="title-section">Quem somos</h5>
+        <hr width="30">
         <br><br>
         <div class="attr z-depth-1 row">
           <div class="icon col s4 m3">
@@ -86,243 +108,65 @@
             <i class="mdi-action-trending-up"></i>
           </div>
         </div>
+        <a href="equipe.html" class="btn">Conheça nossa equipe</a>
       </section>
 
       <section id="section-3">
         <br><br>
         <h5>Serviços</h5>
-        <br><br><br><br><br><br>
+        <hr width="30">
+        <br><br><br>
 
         <div class="row">
-          <div class="col s12 m4">
-            <img src="images/icon_web.png" alt="" class="col s12">
-            <h5 class="col s12">Desenvolvimento de sites e sistemas web</h5>
+          <div class="col s12 m12 l4">
+            <div class="card small">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="images/website.jpg">
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Sites e Sistemas Web<i class="material-icons right mdi-navigation-more-vert"></i></span>
+                <p><a href="#">Portfólio</a></p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right mdi-navigation-close"></i></span>
+                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+              </div>
+            </div>
           </div>
-          <div class="col s12 m4">
-            <img src="images/icon_mobile.png" alt="" class="col s12">
-            <h5 class="col s12">Desenvolvimento de aplicativos mobile</h5>
+          <div class="col s12 m12 l4">
+            <div class="card small">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="images/mobile.jpg">
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Sistemas Mobiles<i class="material-icons right mdi-navigation-more-vert"></i></span>
+                <p><a href="#">Portfólio</a></p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right mdi-navigation-close"></i></span>
+                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+              </div>
+            </div>
           </div>
-          <div class="col s12 m4">
-            <img src="images/icon_corp.png" alt="" class="col s12">
-            <h5 class="col s12">Desenvolvimento de sistemas corporativos</h5>
+          <div class="col s12 m12 l4">
+            <div class="card small">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="images/website.jpg">
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Sistemas Corporativos<i class="material-icons right mdi-navigation-more-vert"></i></span>
+                <p><a href="#">Portfólio</a></p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right mdi-navigation-close"></i></span>
+                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+              </div>
+            </div>
           </div>
         </div>
-        <br><br><br>
-        <br><br><br><br>
+
       </section>
-      <section id="section-4">
-        <br><br>
-          <h5>Nossa equipe</h5>
-        <br><br>
-        <div class="row">
-          <a href="#douglas" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/douglas.jpg" alt="" class="z-depth-1">
-              <h5>Douglas Gabriel</h5>
-              <h6>Diretor Presidente</h6>
-            </div>
-          </a>
-          <a href="#rafael" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/rafael.jpg" alt="" class="z-depth-1">
-              <h5>Rafael Tavares</h5>
-              <h6>Diretor Vice-Presidente</h6>
-            </div>
-          </a>
-          <a href="#jair" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/jair.jpg" alt="" class="z-depth-1">
-              <h5>Jair Anderson</h5>
-              <h6>Diretor Administrativo-Financeiro</h6>
-            </div>
-          </a>
-          <a href="#priscila" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/priscila.jpg" alt="" class="z-depth-1">
-              <h5>Priscila Gouveia</h5>
-              <h6>Diretora de Recursos Humanos</h6>
-            </div>
-          </a>
-        </div>
-        <div class="row">
-          <a href="#emanuel" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/emanuel.jpg" alt="" class="z-depth-1">
-              <h5>Emanuel Batista</h5>
-              <h6>Diretor de Projetos</h6>
-            </div>
-          </a>
-          <a href="#michelle" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/michelle.png" alt="" class="z-depth-1">
-              <h5>Michelle Oliveira</h5>
-              <h6>Diretora de Qualidade</h6>
-            </div>
-          </a>
-          <a href="#rodrigo" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/rodrigo.jpg" alt="" class="z-depth-1">
-              <h5>Rodrigo Oliveira</h5>
-              <h6>Gerente de Marketing</h6>
-            </div>
-          </a>
-          <a href="#diogo" class="modal-trigger">
-            <div class="membro col s12 m3 waves-effect">
-              <img src="images/equipe/diogo.jpg" alt="" class="z-depth-1">
-              <h5>Diogo Moreira</h5>
-              <h6>Professor Orientador</h6>
-            </div>
-          </a>
-        </div>
-        <br><br>
-      </section>
-      <div id="douglas" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/douglas.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Douglas Gabriel</h4>
-              <h5>Diretor Presidente</h5>
-            </div>
-          </div>
-          <p>Técnico em informática, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB, 20 anos. Tenho encarado minha carreira como aluno da forma mais séria possível, e agora, como integrante da Recursive, vejo minha maior oportunidade de crescimento pessoal e profissional. Assim, busco desempenhar meu papel da melhor forma possível, representando minha equipe e o Movimento Empresa Júnior.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="http://douglasgabriel.github.io/" target="_blank"><img src="images/icon_blog.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Blog"></a>
-          <a href="https://www.facebook.com/douglas.gabriel.18" target="_blank"><img src="images/icon_facebook.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Facebook"></a>
-          <a href="https://br.linkedin.com/pub/douglas-gabriel/a4/618/574" target="_blank"><img src="images/icon_linkedin.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Linkedin"></a>
-          <a href="http://lattes.cnpq.br/4795800104755832" target="_blank"><img src="images/icon_lattes.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Currículo Lattes"></a>
-          <a href="https://github.com/douglasgabriel" target="_blank"><img src="images/icon_github.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="GitHub"></a>
-        </div>
-      </div>
-      <div id="rafael" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/rafael.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Rafael Tavares</h4>
-              <h5>Diretor Vice-Presidente</h5>
-            </div>
-          </div>
-          <p>Técnico em informática, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB, 19 anos. Sou um entusiasta tecnológico, possuo certo fascínio pelo novo e diferente, vejo a Recursive como uma excelente oportunidade para aprimorar meus conhecimentos e uma porta de entrada para a compreensão do mercado de trabalho ao qual em breve devo adentrar-me.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="https://www.facebook.com/rafael.tavares.39108" target="_blank"><img src="images/icon_facebook.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Facebook"></a>
-          <a href="https://www.linkedin.com/in/rafaeltavaresrufino" target="_blank"><img src="images/icon_linkedin.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Linkedin"></a>
-          <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8105119H6" target="_blank"><img src="images/icon_lattes.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Currículo Lattes"></a>
-          <a href="https://github.com/RafaelTavares95" target="_blank"><img src="images/icon_github.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="GitHub"></a>
-        </div>
-      </div>
-      <div id="jair" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/jair.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Jair Anderson</h4>
-              <h5>Diretor Administrativo-Financeiro</h5>
-            </div>
-          </div>
-          <p>Estudante de computação no IFPB. Já trabalhou com Java, PostgresSQL, HTML5, CSS3, JavaScript, tem como principais interesses Bancos de Dados, Sistemas Operacionais Livres e C#. Nas horas vagas gosta de filmes e séries.</p>
-        </div>
-        <div class="modal-footer">
-        </div>
-      </div>
-      <div id="priscila" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/priscila.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Priscila Gouveia</h4>
-              <h5>Diretora de Recursos Humanos</h5>
-            </div>
-          </div>
-          <p>Técnica em informática, estudante do curso de Análise e Desenvolvimento de Sistemas do IFPB - Campus Cajazeiras, integrante do Grupo de Pesquisa em Sistemas de Informações, Multimídia e Banco de Dados (SIMBA) e da equipe vencedora da GameJam (Competição de Desenvolvimento de Games) na Expotec 2015, realizada em João Pessoa - PB.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="Lattes: http://lattes.cnpq.br/6469644900599656" target="_blank"><img src="images/icon_lattes.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Currículo Lattes"></a>
-        </div>
-      </div>
-      <div id="emanuel" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/emanuel.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Emanuel Batista</h4>
-              <h5>Diretor de Projetos</h5>
-            </div>
-          </div>
-          <p>Graduando em Análise e Desenvolvimento de Sistemas no IFPB campus cajazeiras, sou um aluno muito dedicado e gosto muito da área na qual escolhi, principalmente na parte de desenvolvimento web (web developer). Tenho um bom conhecimento em Java, Banco de Dados, JavaScript, HTML, CSS entre outros e possuo interesse na área de Segurança da Informação. Como integrante da Empresa Júnior procuro sempre melhorar minha performace para meu crescimento profissional e obtenção de experiência no mercado de trabalho.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="https://github.com/emanuelbatista" target="_blank"><img src="images/icon_github.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="GitHub"></a>
-        </div>
-      </div>
-      <div id="michelle" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/michelle.png" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Michelle Oliveira</h4>
-              <h5>Diretora de Qualidade</h5>
-            </div>
-          </div>
-        </div>
-        <div class="modal-footer">
-        </div>
-      </div>
-      <div id="rodrigo" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/rodrigo.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Rodrigo Oliveira</h4>
-              <h5>Gerente de Marketing</h5>
-            </div>
-          </div>
-          <p>Graduando em Análise e Desenvolvimento de Sistemas do IFPB - Campus Cajazeiras, ex-intercambista através do Ciência sem Fronteiras (CsF),onde fez Ciências da Computação na Western Illinois University (WIU) nos Estados Unidos, nesse período foi duas vezes para lista dos melhores alunos, a chamada Dean's List. Em poucas palavras, um rapaz compromissado com o que gosta e apaixonado pela computação.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="http://facebook.com/rodrigo.o.d.freitas?__mref=message_bubble" target="_blank"><img src="images/icon_facebook.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Facebook"></a>
-          <a href="https://www.linkedin.com/in/rodrigodfreitas" target="_blank"><img src="images/icon_linkedin.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Linkedin"></a>
-          <a href="https://github.com/rodrigodfreitas" target="_blank"><img src="images/icon_github.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="GitHub"></a>
-        </div>
-      </div>
-      <div id="diogo" class="modal modal-fixed-footer">
-        <div class="modal-content">
-          <div class="row header">
-            <div class="col s12 m4 l4">
-              <img src="images/equipe/diogo.jpg" alt="" class="z-depth-1">
-            </div>
-            <div class="col s12 m8 l8">
-              <h4>Diogo Moreira</h4>
-              <h5>Professor Orientador</h5>
-            </div>
-          </div>
-          <p>Full-stack web developer, apaixonado pela arte da programação e por ensinar. Tem experiência profissional no desenvolvimento de aplicações Java utilizando Spring Framework, JPA, JSF e Adobe Flex. Direciona boa parte do seu tempo para construir alguns projetos pessoais, desenhar, ensinar, e em escrever os artigos que publica no seu blog. Além disso, um jogador de Dota 2 em treinamento.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="http://diogodmoreira.com/blog/" target="_blank"><img src="images/icon_blog.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Blog"></a>
-          <a href="https://www.facebook.com/diogodmoreira?__mref=message_bubble" target="_blank"><img src="images/icon_facebook.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Facebook"></a>
-          <a href="https://twitter.com/diogodmoreira" target="_blank"><img src="images/icon_twitter.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Twitter"></a>
-          <a href="https://www.linkedin.com/in/diogodmoreira" target="_blank"><img src="images/icon_linkedin.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Linkedin"></a>
-          <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4384159A1" target="_blank"><img src="images/icon_lattes.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Currículo Lattes"></a>
-          <a href="http://www.github.com/diogomoreira" target="_blank"><img src="images/icon_github.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="GitHub"></a>
-        </div>
-      </div>
+
       <section id="section-5">
         <br><br>
         <h5>Entre em contato conosco</h5>
@@ -341,14 +185,6 @@
         </div>
         <br><br><br>
       </section>
-      <section id="section-6">
-        <br><br>
-        <a href="blog.html" target="_blank"><img src="images/icon_blog.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Blog"></a>
-        <a href="https://www.facebook.com/recursivejunior" target="_blank"><img src="images/icon_facebook.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Facebook"></a>
-        <a href="https://twitter.com/recursivejr" target="_blank"><img src="images/icon_twitter.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Twitter"></a>
-        <a href="https://instagram.com/recursive_jr" target="_blank"><img src="images/icon_instagram.png" alt="" class="tooltipped" data-position="top" data-delay="50" data-tooltip="Instagram"></a>        
-        <br><br><br>
-      </section>
       <footer>
         <br>
         Recursive Jr - Todos os direitos reservados
@@ -359,7 +195,7 @@
     <script src="js/materialize.min.js"></script>
     <script>
       $(".button-collapse").sideNav({
-        menuWidth: 70, // Default is 240
+        menuWidth: 240, // Default is 240
       });
     </script>
     <script type="text/javascript">
