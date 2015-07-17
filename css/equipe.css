@@ -14,6 +14,11 @@ body, html{
   height:100%;
 }
 
+body{
+  background:url(../images/equipe/todos.jpg) fixed center no-repeat;
+  background-size: 100%;
+}
+
 nav {
   background-color: #0d47a1;
   height:84px;
@@ -69,8 +74,6 @@ nav img {
 #section-1 {
   text-align: center;
   min-height: 100% !important;
-  background:url(../images/equipe/todos.jpg) fixed center no-repeat;
-  background-size: 100%;
   width: 100% !important;
 }
 video {
@@ -116,10 +119,10 @@ video {
 }
 
 #section-2{
-  background-color:#0d47a1;
+  background-color:rgba(13, 71, 161, 0.9);
 }
 #section-3{
-  background-color:#1565c0;
+  background-color:rgba(21, 101, 192, 0.9);
 }
 #section-5 {
   text-align: center;
@@ -141,11 +144,8 @@ video {
   background-color: #1CA8FF;
 }
 
-footer {
-  text-align: center;
-  background-color: #1565c0;
-  color: white;
-  font-style: italic;
+footer{
+  margin:0px !important;
 }
 @media (max-width:1035px) {
   .background-home, #section-3 {
