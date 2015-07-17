@@ -4,7 +4,6 @@ body {
 	font-size: 14px;
 	overflow-x: hidden;
 	color: #2a3237;
-  background: #f7f7f7 !important;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -114,7 +113,7 @@ header {
 	position: relative;
 	width: 100%;
 	color: white;
-	background: url('../img/equipe.jpg') center;
+	background: url('../img/overflow.png');
 	background-color: #1565c0;
 	background-size: cover;
 }
@@ -293,7 +292,7 @@ section {
 	width: 0;
 	height: 0;
 	border-top: 80px solid transparent;
-	border-right: 30px solid #f7f7f7;;
+	border-right: 30px solid white;
 }
 
 .cut-bottom {
@@ -306,7 +305,6 @@ section {
 	height: 0;
 	border-bottom: 80px solid transparent;
 	border-left: 30px solid white;
-  background: #f7f7f7;
 }
 
 .intro-tables {
@@ -535,26 +533,9 @@ section {
 
 .team {
 	margin: 80px 0;
-	padding-bottom: 10px;
+	padding-bottom: 60px;
+	background: white;
 	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.07);
-  background:white;
-  height:400px;
-}
-
-.team .func-mes{
-  font-size: 20px;
-  padding:10px;
-  border-radius: 5px;
-}
-
-.team .func-mes.winner{
-  color:#fcf20e;
-  background-color: black;
-}
-
-.team .func-mes.honor{
-  color:#fcf20e;
-  background-color: grey;
 }
 
 .team .cover .overlay {
@@ -566,11 +547,6 @@ section {
 	transition: opacity 0.45s ease;
 }
 
-.team a{
-  font-size: 40px;
-  margin:10px;
-}
-
 .team:hover .cover .overlay {
 	opacity: 1;
 }
@@ -578,9 +554,8 @@ section {
 .team .avatar {
 	position: relative;
 	z-index: 2;
-	margin-top: 20px;
+	margin-top: -60px;
 	border-radius: 50%;
-  width:150px;
 }
 
 .team .title {
