@@ -113,9 +113,13 @@ header {
 	position: relative;
 	width: 100%;
 	color: white;
-	background: url('../img/overflow.png');
+	background: url('../images/overflow.png');
 	background-color: #1565c0;
 	background-size: cover;
+}
+
+header img{
+	width:90%;
 }
 
 header .table {
@@ -454,8 +458,8 @@ section {
 }
 
 #social{
-	border-top:1px solid #e3f2fd;
-	border-bottom:1px solid #e3f2fd;
+	border-top:1px solid #e9eaed;
+	border-bottom:1px solid #e9eaed;
 	padding:20px 0px;
 	font-size: 40px;
 	text-align: center;
@@ -463,6 +467,10 @@ section {
 
 #social a{
 	margin: 0px 10px;
+}
+
+#social a:hover{
+	color:#3071bc;
 }
 
 .services {
@@ -481,7 +489,7 @@ section {
 
 .service .icon-holder {
 	position: relative;
-	top: 100px;
+	top: 90px;
 	display: inline-block;
 	padding: 10px;
 	background: white;
@@ -671,7 +679,7 @@ section {
 
 footer {
 	padding: 140px 0 40px;
-	background: url('../img/footer.jpg');
+	background: url('../images/footer.jpg');
 	-webkit-background-size: cover;
 	background-size: cover;
 }
