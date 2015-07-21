@@ -26,6 +26,7 @@ header a {
 	font-size: 24px
 }
 body {
+
 }
 h3 {
 	font-style: Roboto !important;
@@ -108,11 +109,13 @@ i.right {
 footer p{
 	color: rgba(255,255,255,0.7);
 	clear: both;
-	font-weight: 300;
+	font-weight: normal;
+	font-size: 17px;
+
 }
 
 footer .social-footer {
-	margin-top: 20px;
+	margin-top: 0px;
 	padding: 0;
 	list-style: none;
 }
@@ -131,22 +134,30 @@ footer .social-footer li:hover a {
 	color: #00a8ff;
 }
 
+footer h4{
+	font-size: 24px;
+	color: white;		
+	padding: 0 10px;		
+}
+
+footer h5{
+	font-size: 18px;
+	color: #999;
+	padding: 0 10px
+}
+
+footer div{
+	margin-top: 20px;	
+}
+
 .parallax-container{
-	height: 400px;		
+	height: auto;		
 }
 
-ul{	
-	margin: 5 20px;
-}
-
-ul li{
-	font-weight: 300;
-	color: white;
-}
 .cut-bottom {
 	position: relative;
 	left: 0;
-	bottom: -60px;
+	bottom: -80px;
 	width: 0;
   	height: 0;
   	border-style: solid;
@@ -154,3 +165,19 @@ ul li{
   	border-color: white transparent transparent transparent;
   	transform: scale(1)
 }
+
+.text-left{
+	margin: 0 auto;
+}
+
+@media(max-width: 600px){
+	footer div{
+		text-align: center;
+	}
+
+	.cut-bottom {	
+		bottom: -80px;	
+  		border-width: 60px 96vw 0 0;  	
+  	}
+}
+
