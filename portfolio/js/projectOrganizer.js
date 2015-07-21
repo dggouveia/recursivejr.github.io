@@ -82,7 +82,11 @@ function updateContent(section){
         }else{
             text+='<br>';
         }        
-        text+='</p></div><div class="card-reveal"><span class="card-title grey-text text-darken-4">'+matrix[section][project].name+'<i class="material-icons right">close</i></span><p>'+matrix[section][project].description+'</p></div></div></div>';
+        text+='</p></div><div class="card-reveal"><span class="card-title grey-text text-darken-4">'+matrix[section][project].name+'<i class="material-icons right">close</i></span><p>'+matrix[section][project].description+'</p>';
+        if(matrix[section][project].link != null && matrix[section][project].link != ''){
+            text+='<p><a href="'+matrix[section][project].link+'">Página do Projeto</a></p>';    
+        }        
+        text+='</div></div></div>';
     }
     text += "</div>";
     content.innerHTML += text;
