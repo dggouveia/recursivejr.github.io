@@ -2,7 +2,7 @@
 layout: post
 title:  "O maravilhoso mundo da Web Semântica"
 date:   2015-07-20 14:41:42
-author: Rodrigo de Freitas
+author: Rodrigo de Freitas 
 categories: jekyll update
 ---
 
@@ -13,10 +13,10 @@ Olá galera, me veio a mente de compartilhar algumas informações úteis com vo
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/web-semantica.jpg)
 
-Atualmente, a maior parte das ferramentas de busca resolve suas consultas apenas com base em uma ou mais palavras-chave. Esta característica limita a cobertura e a precisão destas consultas. A cobertura é prejudicada porque recursos relevantes descritos com termos relacionados às palavras-chave usadas na requisição deixam de ser recuperados. Por sua vez, a precisão é prejudicada porque recursos não relevantes que contém as palavras-chaves em sua descrição acabam sendo recuperados. Tal situação ocorre principalmente em consultas envolvendo palavras-chave que possuem mais de um significado. 
+Atualmente, a maior parte das ferramentas de busca resolve suas consultas apenas com base em uma ou mais palavras-chave. Esta característica limita a cobertura e a precisão destas consultas. A cobertura é prejudicada porque recursos relevantes descritos com termos relacionados às palavras-chave usadas na requisição deixam de ser recuperados. Por sua vez, a precisão é prejudicada porque recursos não relevantes que contém as palavras-chaves em sua descrição acabam sendo recuperados. Tal situação ocorre principalmente em consultas envolvendo palavras-chave que possuem mais de um significado.
 
 A Web Semântica foi proposta como a solução para resolver estas limitações. O seu objetivo é melhorar a descrição dos recursos oferecidos na Web, de forma que a sua Semântica possa ser compreendida tanto por humanos quanto por aplicações de software. Uma definição da Web Semântica é fornecida pelo seu idealizador, Tim Berners-Lee (2001):
- 
+
 >“A Web Semântica é uma extensão da Web atual, na qual é dada a informação um significado bem definido, permitindo que computadores e pessoas trabalhem em cooperação.”
 
 Segundo Breitman (2010), o conceito da Web Semântica tem conquistado uma grande aceitação na medida em que novos aplicativos de *software* têm sido desenvolvidos, não somente em ambientes de pesquisa acadêmica, mas também junto ao Governo e à iniciativa privada. Dentre outras coisas, ela dá às pessoas a capacidade de descreverem repositórios de dados na Web de forma mais detalhada, estabelecerem vocabulários e registrarem regras para trabalharem com esses dados. Ademais, permitem que uma máquina possa interpretar o significado destes dados para realizar buscas com maior qualidade, o que torna estas ferramentas mais inteligentes e dinâmicas.
