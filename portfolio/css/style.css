@@ -156,12 +156,12 @@ footer div{
 
 .cut-bottom {
 	position: relative;
-	left: 0;
+	left: -2%;
 	bottom: -80px;
 	width: 0;
   	height: 0;
   	border-style: solid;
-  	border-width: 60px 97vw 0 0;
+  	border-width: 60px 100vw 0 0;
   	border-color: white transparent transparent transparent;
   	transform: scale(1)
 }
@@ -175,9 +175,17 @@ footer div{
 		text-align: center;
 	}
 
-	.cut-bottom {	
-		bottom: -80px;	
-  		border-width: 60px 96vw 0 0;  	
+	.cut-bottom {			
+		left: -4%;
+		bottom: -100px;	
+  		border-width: 60px 100vw 0 0;  	
   	}
 }
 
+@media(max-width: 500px){
+	.cut-bottom {	
+		left: -4%;
+		bottom: -100px;	
+  		border-width: 60px 100vw 0 0;  	
+  	}	
+}
