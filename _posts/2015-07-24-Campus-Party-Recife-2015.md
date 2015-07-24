@@ -7,14 +7,14 @@ categories: jekyll update
 ---
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img0campus.jpg)
 
-Bom Dia pessoal, hoje vou falar um pouco sobre o que vi de interessante no primeiro dia da 4ª edição da Campus Party Recife, para quem não conhece, a Campus Party é um dos maiores eventos de tecnologia do mundo, suas temáticas envolvem, desenvolvimento, inovação, jogos, cultura digital e empreendedorismo, o evento é realizado duas vezes por ano no Brasil, com edições em São Paulo e Recife, nele milhares de jovens acampam durante quase uma semana, participando das mais diversas atividades e trocando experiências. 
+Bom Dia pessoal, hoje vou falar um pouco sobre o que vi de interessante no primeiro dia da 4ª edição da Campus Party Recife, para quem não conhece, a Campus Party é um dos maiores eventos de tecnologia do mundo, suas temáticas envolvem, desenvolvimento, inovação, jogos, cultura digital e empreendedorismo. O evento é realizado duas vezes por ano no Brasil, com edições em São Paulo e Recife, nele milhares de jovens acampam durante quase uma semana, participando das mais diversas atividades e trocando experiências. 
 
 O primeiro dia de evento foi, tanto entusiasmante quanto cansativo, isso devido as longas filas que devemos enfrentar até chegar ao nosso acampamento, mas deixando um pouco de lado o cansaço desse primeiro momento, o evento trouxe esse ano coisas bastante interessantes, o foco dessa edição é novamente o empreendedorismo, com uma área destinada a mostra de startups e ideias inovadoras e um palco com palestras sobre negócios, a primeira atividade nesse palco foi uma mesa redonda com jovens empreendedores que falaram sobre as dificuldades em montar o seu negócio e sobre as diversas coisas que uma pessoa que deseja empreender deve estar disposta a se desfazer para que a sua ideia se torne um produto, um dos pontos mais interessantes abordados por eles foi sobre o relacionamento entre sócios e o quanto as diferenças entre eles devem ser usadas para fazer o negocio de fato acontecer.
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img1campus.JPG)
 
 
-Outra atividade comum na campus é a presença de celebridades da internet, a que atraiu mais o publico no dia de ontem foram os Irmãos Piologo, famosos por serem os criadores dos vídeos do Mundo Canibal, eles trouxeram toda loucura que vemos nos vídeos para a campus, apresentaram pequenos projetos inéditos e falaram sobre o seu processo criativo, sempre com muito bom humor. 
+Outra atividade comum na campus é a presença de celebridades da internet, a que atraiu mais o público no dia de ontem foram os Irmãos Piologo, famosos por serem os criadores dos vídeos do Mundo Canibal, eles trouxeram toda loucura que vemos nos vídeos para a campus, apresentaram pequenos projetos inéditos e falaram sobre o seu processo criativo, sempre com muito bom humor. 
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img2campus.JPG)
 
