@@ -18,7 +18,11 @@ Outra atividade comum na campus é a presença de celebridades da internet, a qu
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img2campus.JPG)
 
-O destaque da noite ficou a cargo de Dado Schneider é sua famosa palestra muda, isso mesmo, ele faz parte da palestra sem dizer uma palavra, a música e alguns slides são responsáveis pelo show, ele usa essa técnica para garantir a atenção da plateia, e de fato funciona, ele falou sobre a convivência entre as diversas gerações que vimos no mundo de hoje e sobre o quão importante é essa convivência, "Se você não tem experiência deve se tornar fonte de informação", ele usou essa frase pra comentar a necessidade de constante atualização, que hoje esta acontecendo cada vez mais rápida, tanto para velhos quanto jovens. 
+O destaque da noite ficou a cargo de Dado Schneider é sua famosa palestra muda, isso mesmo, ele faz parte da palestra sem dizer uma palavra, a música e alguns slides são responsáveis pelo show, ele usa essa técnica para garantir a atenção da plateia, e de fato funciona, ele falou sobre a convivência entre as diversas gerações que vimos no mundo de hoje e sobre o quão importante é essa convivência. 
+
+> "Se você não tem experiência deve se tornar fonte de informação."
+
+Dado usou essa frase pra comentar a necessidade de constante atualização, que hoje esta acontecendo cada vez mais rápida, tanto para velhos quanto jovens. 
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img3campus.JPG)
 
