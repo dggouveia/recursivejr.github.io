@@ -321,6 +321,8 @@ section {
 	margin:20px;
 	text-align: justify;
 	color:#989da0;
+	position: relative;
+	top:-60px;
 }
 
 .intro-table {
@@ -328,12 +330,21 @@ section {
 	background-size: cover;
 	background-repeat: repeat;
 	background-position: 0% 0%;
-	border:1px solid #ddd;
+	border:1px solid #00a8ff;
 }
 
 .intro-table h5{
 	color:black;
-	font-weight: normal;
+	position:relative;
+	top:-60px;
+}
+
+.intro-table span{
+	font-size: 70px;
+	position: relative;
+	top:-60px;
+	background-color: white;
+	padding:5px;
 }
 
 .intro-table-hover {
@@ -1090,7 +1101,7 @@ footer .social-footer li:hover a {
 	}
 
 	.intro-table{
-		margin:10px 0px !important;
+		margin:40px 0px !important;
 	}
 }
 
