@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Campus Party Recife 2015 - #Day2"
-date:   2015-07-25 
+date:   2015-07-25
 author: Rafael Tavares
 categories: jekyll update
+comments: true
 ---
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/CPRecife-1.JPG)
 
@@ -31,7 +32,7 @@ Bem, isso foi um pouco do que aconteceu no segundo dia, se fosse contar tudo que
 
 Veja mais fotos do evento em nosso [instagram].
 
-Até Amanhã.    
+Até Amanhã.
 
 [instagram]:https://instagram.com/recursive_jr
 [aqui]:https://www.youtube.com/watch?v=leD9srixeiw

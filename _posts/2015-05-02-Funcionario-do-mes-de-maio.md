@@ -3,11 +3,12 @@ layout: post
 title:  "Funcionário do mês de Maio"
 date:   2015-06-01 14:29:42
 categories: jekyll update
+comments: true
 ---
 
 <img src="{{ site.absolute_url }}/images/posts/funcmesmaio.png">
 
-O mês de Maio vai se encerrando e deixando um legado de aprendizados para a equipe da Recursive que teve a oportunidade de participar de grandes eventos como o [Androidos III][androidos], Encontro de Inovação do SEBRAE e Expotec 2015. E além disto, a equipe pôde, ainda, desenvolver importantes trabalhos. 
+O mês de Maio vai se encerrando e deixando um legado de aprendizados para a equipe da Recursive que teve a oportunidade de participar de grandes eventos como o [Androidos III][androidos], Encontro de Inovação do SEBRAE e Expotec 2015. E além disto, a equipe pôde, ainda, desenvolver importantes trabalhos.
 
 [Pelo segundo mês consecutivo][funcmesabril], o destaque ficou com o Diretor Presidente, Douglas Gabriel, que esteve envolvido nas campanhas de marketing da empresa, bem como na elaboração do novo layout do nosso site (aguardem). Esteve, ainda, envolvido com o desenvolvimento de um site para um de nossos clientes e prestando suporte ao SIB, Sistema Bibliotecário do IFPB - Campus Cajazeiras.
 

@@ -4,6 +4,7 @@ title:  "Desenvolvimento do sistema do II ECMAT"
 date:   2015-05-27 12:37:42
 author: Priscila Gouveia
 categories: jekyll update
+comments: true
 ---
 
 No mês de maio, mais precisamente nos dias 6 a 8, ocorreu no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba – Campus Cajazeiras a segunda edição do Encontro Cajazeirense de Matemática (II ECMAT), sob organização da Coordenação do Curso de Licenciatura em Matemática, Direção Geral e Direção de Ensino do referido campus.
@@ -16,7 +17,7 @@ E o objetivo é de que este projeto não pare por aqui. Segundo Douglas, atual D
 
 A comissão organizadora do II ECMAT, representada pelo professor e Coordenador do Curso de Licenciatura em Matemática, Geraldo Herbetet de Lacerda, emitiu uma nota de agradecimento pelos serviços realizados pela Recursive durante o evento, destacando o ótimo trabalho feito e, ainda, a possibilidade de parcerias futuras entre a empresa e o referido curso.
 
-Quer conferir como ficou este projeto? 
+Quer conferir como ficou este projeto?
 
 Acesse [www.ecmat2015.com.br][ecmat]
 

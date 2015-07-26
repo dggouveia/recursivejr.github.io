@@ -4,6 +4,7 @@ title:  "Utilizando GIT"
 date:   2015-04-03 12:37:42
 author: Douglas Gabriel
 categories: jekyll update
+comments: true
 ---
 
 Saudações,
@@ -66,7 +67,7 @@ No quesito "repositórios oferecidos" ambos os serviços mostram-se extremamente
 
 O Bitbucket oferece repositórios privados e públicos gratuitamente, diferente do GitHub que oferece apenas repositórios públicos gratuitamente.
 
-> Repositórios privados oferecem um controle de acesso, onde apenas pessoas credenciadas e, dependendo das permissões concedidas, podem ler, escrever e copiar os arquivos do projeto. Já repositórios públicos, ficam visíveis à todos, sendo que todos podem ler e copiar seus arquivos, porém a escrita só é feita mediante a aprovação de um administrador do repositório. 
+> Repositórios privados oferecem um controle de acesso, onde apenas pessoas credenciadas e, dependendo das permissões concedidas, podem ler, escrever e copiar os arquivos do projeto. Já repositórios públicos, ficam visíveis à todos, sendo que todos podem ler e copiar seus arquivos, porém a escrita só é feita mediante a aprovação de um administrador do repositório.
 
 Independente do serviço que você escolheu, os passos para a criação do repositório são bastante semelhantes.
 
@@ -76,7 +77,7 @@ Com o login realizado, vamos agora criar o repositório que iremos trabalhar:
 
 No GitHub:
 
-<img src="{{ site.absolute_url }}/images/posts/criarrepositoriogithub.png"> 
+<img src="{{ site.absolute_url }}/images/posts/criarrepositoriogithub.png">
 
 No Bitbucket:
 
@@ -109,7 +110,7 @@ Primeiro, é necessário criar um diretório onde o repositório será mapeado. 
 	git init
 
 Este comando tornará o seu diretório mapeado pelo Git. Em seguida vamos mapear o repositório local para o remoto com o seguinte comando:
-	
+
 	git remote add <nome do repositório> <url do repositório>
 
 A versatilidade trazida por esta abordagem é que é possível atribuir um nome para o repositório (caso você use a primeira forma ou oculte o nome do repositório na segunda, o nome do repositório será 'origin') e o fato de que é possível usá-la em projetos já criados e que você a princípio não usou Git na hora de sua criação.
@@ -185,4 +186,4 @@ Sem mais, até mais...
 [Linux]:http://git-scm.com/download/linux
 [Mac]:http://git-scm.com/download/mac;
 [Bitbucket]:https://bitbucket.org/;
-[Github]:https://github.com/; 
+[Github]:https://github.com/;

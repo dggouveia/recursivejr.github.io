@@ -2,8 +2,9 @@
 layout: post
 title:  "O maravilhoso mundo da Web Semântica"
 date:   2015-07-20 14:41:42
-author: Rodrigo de Freitas 
+author: Rodrigo de Freitas
 categories: jekyll update
+comments: true
 ---
 
 Olá galera, me veio a mente de compartilhar algumas informações úteis com vocês, então porque não começar com algo intrigante como a Web Semântica. Mas aí você me pergunta: O que é a Web Semântica? Pra que serve? Calma jovem Jedi, continue lendo e veja a maravilha da Internet.

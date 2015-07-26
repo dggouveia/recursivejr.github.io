@@ -4,6 +4,7 @@ title:  "#AlgorithmDay: Compressão de Dados e Codificação de Huffman"
 date:   2015-04-02 16:12:00
 author: Victor Hugo da Silva Ribeiro
 categories: jekyll update
+comments: true
 ---
 
 Olá pessoal, hoje no *AlgorithmDay* estarei comentando sobre compressão de arquivos e explicando a codificação de Huffman aplicada a compressão de textos.
@@ -31,7 +32,7 @@ Exemplificando, vamos aplicar a codificação de Huffman para comprimir a palavr
 
 	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo1.png)
 
-2. Concluído o primeiro passo, devemos utilizar os dois elementos de menor frequência para criar um nó da árvore, este deverá ter a frequência equivalente a soma das frequências dos dois elementos selecionados. Feito isto, o nó deverá ser incluído na lista e a mesma reordenada, no caso, os caracteres de menor frequência são ‘A’ e ‘V’, ambos com 7,69% de frequência. Então, com esses caracteres criei um novo nó ‘n1’ cuja frequência equivale a soma das frequências dos caracteres ‘A’ e ‘V’, feito isto, adicionei o nó na lista e em seguida reordenei seus elementos de acordo com a frequência, como ilustra a imagem abaixo. 
+2. Concluído o primeiro passo, devemos utilizar os dois elementos de menor frequência para criar um nó da árvore, este deverá ter a frequência equivalente a soma das frequências dos dois elementos selecionados. Feito isto, o nó deverá ser incluído na lista e a mesma reordenada, no caso, os caracteres de menor frequência são ‘A’ e ‘V’, ambos com 7,69% de frequência. Então, com esses caracteres criei um novo nó ‘n1’ cuja frequência equivale a soma das frequências dos caracteres ‘A’ e ‘V’, feito isto, adicionei o nó na lista e em seguida reordenei seus elementos de acordo com a frequência, como ilustra a imagem abaixo.
 
 	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo2.png)
 
@@ -45,7 +46,7 @@ Exemplificando, vamos aplicar a codificação de Huffman para comprimir a palavr
 
 Escrevendo a mesma palavra utilizando a representação binária que construímos, podemos perceber que houve uma boa economia de *bits*, como mostra a imagem abaixo.
 
-	
+
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo5.png)
 
 ## Descompressão ##

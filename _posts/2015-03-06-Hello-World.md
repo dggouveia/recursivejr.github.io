@@ -4,6 +4,7 @@ title:  "Hello World!"
 date:   2015-03-06 14:29:42
 author: Douglas Gabriel
 categories: jekyll update
+comments: true
 ---
 
 Saudações,
@@ -16,4 +17,4 @@ Além disto, nossos amigos programadores poderão ter acesso a conteúdos refere
 
 Sem mais, até mais
 
-[recursive]: http://www.recursive.com.br 
+[recursive]: http://www.recursive.com.br

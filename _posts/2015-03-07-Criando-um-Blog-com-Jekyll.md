@@ -4,6 +4,7 @@ title:  "Criando um Blog com Jekyll"
 date:   2015-03-07 14:29:42
 author: Douglas Gabriel
 categories: jekyll update
+comments: true
 ---
 
 Saudações,
@@ -19,7 +20,7 @@ Sendo assim, neste post falarei de forma simples como criar um Blog hospedado no
 
 ### Reservando o endereço do seu Blog ###
 ---
-Bem, para começar, uma conta no GitHub se faz necessária. Uma vez que já possua, o próximo passo é criar um repositório, e aqui vai um detalhe importante: 
+Bem, para começar, uma conta no GitHub se faz necessária. Uma vez que já possua, o próximo passo é criar um repositório, e aqui vai um detalhe importante:
 
 **O nome do repositório deverá ser composto da seguinte forma:**
 *[seu nome de usuário].github.io*
@@ -33,18 +34,18 @@ Desta forma, a etapa de reservar um endereço para o seu Blog foi concluída com
 
 Será necessário ter o GIT devidamente instalado em sua máquina, você poderá baixá-lo [neste link][gitdownload].
 
-Como citado anteriormente, o Jekyll é uma ferramenta escrita em Ruby, sendo assim, é necessário instalar um pacote contendo a linguagem, ambiente de execução e a sua documentação. 
+Como citado anteriormente, o Jekyll é uma ferramenta escrita em Ruby, sendo assim, é necessário instalar um pacote contendo a linguagem, ambiente de execução e a sua documentação.
 
 No Windows, você deve acessar [este site][rubyinstaller] e  baixar o instalador. Recomendo baixar a [versão 1.9.3][ruby193], uma vez que tive problemas ao trabalhar com todas as outras versões.
 
-Execute o arquivo baixado e quando se deparar com esta tela, marque todas as checkboxes. 
+Execute o arquivo baixado e quando se deparar com esta tela, marque todas as checkboxes.
 
-<img src="{{ site.absolute_url }}/images/posts/rubyinstalation.png"> 
+<img src="{{ site.absolute_url }}/images/posts/rubyinstalation.png">
 
 com o Ruby instalado, agora será necessário instalar o Kit de Desenvolvimento, que encontra-se [no mesmo link][rubyinstaller]. Com o download realizado, descompacte o seu conteúdo dentro da pasta "devkit" dentro do diretório onde o Ruby foi instalado (se não houver esta pasta, crie).
 
 Agora será necessário rodar os seguintes comandos no CMD, dentro da pasta que você descompactou os arquivos baixados:
-    
+
 `ruby dk.rb init`, `ruby dk.rb install` e `gem install rdiscount --platform=ruby`
 
 Desta forma, você já deverá estar apto a instalar o Jekyll na sua máquina apenas rodando o comando `gem install jekyll` no CMD.
@@ -82,7 +83,7 @@ Ainda estou descobrindo as funcionalidades do Jekyll, pretendo posteriormente fa
 Sem mais, até mais
 
 [tomPreston]:    http://en.wikipedia.org/wiki/Tom_Preston-Werner
-[jekyll]:        http://jekyllrb.com 
+[jekyll]:        http://jekyllrb.com
 [github]:	     https://github.com
 [git]:           http://en.wikipedia.org/wiki/Git_%28software%29
 [rubyinstaller]: http://rubyinstaller.org/downloads/
