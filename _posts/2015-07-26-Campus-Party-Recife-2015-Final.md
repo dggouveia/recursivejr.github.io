@@ -4,6 +4,7 @@ title:  "Campus Party Recife 2015 - Final"
 date:   2015-07-26 
 author: Rafael Tavares
 categories: jekyll update
+comments: true
 ---
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/CPRecife-F1.jpg)
 
