@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Equipe Recursive no Androidos III"
-date:   2015-05-11 
+date:   2015-05-11
 author: Rafael Tavares
 categories: jekyll update
+comments: true
 ---
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img-1-androidos.png)
 
@@ -29,7 +30,6 @@ Após a palestra sobre o Android Wear, a equipe organizadora fez uma brincadeira
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/img-4-androidos.png)
 Foto: Diogo Moreira.
 
-Todos os membros da *Recursive* presentes no evento aproveitaram ao máximo. Vale ressaltar a importância de iniciativas como o Androidos, que trazem sempre conhecimento e novidades para nós, desenvolvedores, e é a partir de participações em atividades como essas que a *Recusive* contribui para o aprimoramento de seus membros, criando assim, a base para melhoria de seus serviços. E que venha o próximo! 
+Todos os membros da *Recursive* presentes no evento aproveitaram ao máximo. Vale ressaltar a importância de iniciativas como o Androidos, que trazem sempre conhecimento e novidades para nós, desenvolvedores, e é a partir de participações em atividades como essas que a *Recusive* contribui para o aprimoramento de seus membros, criando assim, a base para melhoria de seus serviços. E que venha o próximo!
 
-Até mais.    
- 
+Até mais.

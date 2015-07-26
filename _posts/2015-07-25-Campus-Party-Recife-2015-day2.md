@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Campus Party Recife 2015 - #Day2"
-date:   2015-07-25 
+date:   2015-07-25
 author: Rafael Tavares
 categories: jekyll update
+comments: true
 ---
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/CPRecife-1.JPG)
 
@@ -22,7 +23,7 @@ O destaque do dia dessa vez foi Joseph Olin, criador de diversos jogos bastante 
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/CPRecife-4.JPG)
 
-Outro destaque foi a presença de "Webcelebridades" como Cauê Muora, que falou sobre sua carreira como criador de conteúdo para o seu canal no youtube, e os irmãos Matheus e Marcos Castro que vieram divulgar o lançamento da Pré-venda do jogo *A Lenda do Heroi*, jogo criado a partir de contribuições de milhares de fãs dos vídeos da saga A Lenda do Heroi, também produzido pelos irmãos, o diferencial desse jogo esta na proposta de ter os acontecimentos do jogo cantados durante a sua execução, [aqui] você pode conferir o criativo trailer da pré-venda desse jogo. 
+Outro destaque foi a presença de "Webcelebridades" como Cauê Muora, que falou sobre sua carreira como criador de conteúdo para o seu canal no youtube, e os irmãos Matheus e Marcos Castro que vieram divulgar o lançamento da Pré-venda do jogo *A Lenda do Heroi*, jogo criado a partir de contribuições de milhares de fãs dos vídeos da saga A Lenda do Heroi, também produzido pelos irmãos, o diferencial desse jogo esta na proposta de ter os acontecimentos do jogo cantados durante a sua execução, [aqui] você pode conferir o criativo trailer da pré-venda desse jogo.
 
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/CPRecife-5.JPG)
 
@@ -30,7 +31,7 @@ Bem, isso foi um pouco do que aconteceu no segundo dia, se fosse contar tudo que
 
 Veja mais fotos do evento em nosso [instagram].
 
-Até Amanhã.    
+Até Amanhã.
 
 [instagram]:https://instagram.com/recursive_jr
 [aqui]:https://www.youtube.com/watch?v=leD9srixeiw

@@ -12,4 +12,7 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.comments == true %}
+	  <div class="post-comments">{% include comments.html %}</div>
+	{% endif %}
 </div>
