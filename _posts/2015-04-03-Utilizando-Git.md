@@ -77,11 +77,11 @@ Com o login realizado, vamos agora criar o repositório que iremos trabalhar:
 
 No GitHub:
 
-<img src="{{ site.absolute_url }}/images/posts/criarrepositoriogithub.png">
+<img src="{{ site.absolute_url }}/images/posts/git/criarrepositoriogithub.png">
 
 No Bitbucket:
 
-<img src="{{ site.absolute_url }}/images/posts/criarrepositoriobitbucket.png">
+<img src="{{ site.absolute_url }}/images/posts/git/criarrepositoriobitbucket.png">
 
 Ao clicar na opção, preencha o formulário com as informações do seu repositório e ao confirmar, a criação do seu repositório remoto estará concluída!
 
@@ -95,11 +95,11 @@ A url do seu repositório pode ser encontrada:
 
 No GitHub:
 
-<img src="{{ site.absolute_url }}/images/posts/urlgithub.png">
+<img src="{{ site.absolute_url }}/images/posts/git/urlgithub.png">
 
 No Bitbuket:
 
-<img src="{{ site.absolute_url }}/images/posts/urlbitbucket.png">
+<img src="{{ site.absolute_url }}/images/posts/git/urlbitbucket.png">
 
 > Este comando irá criar um diretório com  mesmo nome do repositório clonado dentro do diretório que o terminal está atualmente.
 
