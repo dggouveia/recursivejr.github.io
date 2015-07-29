@@ -6,6 +6,16 @@ author: Rafael Tavares
 categories: jekyll update
 comments: true
 ---
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share_save">Share</a>
+<span class="a2a_divider"></span>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>
+</div>
+<script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/campusparty/CPRecife-F1.jpg)
 
 Encerraram-se ontem as atividades na Campus Party Recife, foram três dias de muito conteúdo e informação, a nossa equipe esteve presente durante todo evento, saiba agora o que de mais interessante aconteceu no último dia de Campus Party.
