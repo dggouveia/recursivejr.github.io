@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-<img src="{{ site.absolute_url }}/images/posts/funcmesmaio.png">
+<img src="{{ site.absolute_url }}/images/posts/funcmes/funcmesmaio.png">
 
 O mês de Maio vai se encerrando e deixando um legado de aprendizados para a equipe da Recursive que teve a oportunidade de participar de grandes eventos como o [Androidos III][androidos], Encontro de Inovação do SEBRAE e Expotec 2015. E além disto, a equipe pôde, ainda, desenvolver importantes trabalhos.
 

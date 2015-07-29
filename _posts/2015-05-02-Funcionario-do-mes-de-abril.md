@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-<img src="{{ site.absolute_url }}/images/posts/funcmesabril.png">
+<img src="{{ site.absolute_url }}/images/posts/funcmes/funcmesabril.png">
 
 A Recursive começou, no mês de Abril, uma nova e divertida forma de tratar seus processos internos. Foram implantadas estratégias e conceitos de Gamificação a fim de eleger nossos funcionários do mês, onde, basicamente, são atribuídos pontos por atividades bem sucedidas e também são debitados pontos por atividades mal sucedidas.
 

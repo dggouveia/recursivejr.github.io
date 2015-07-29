@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-<img src="{{ site.absolute_url }}/images/posts/funcmesjunho.jpg">
+<img src="{{ site.absolute_url }}/images/posts/funcmes/funcmesjunho.jpg">
 
 Junho foi um mês cheio de novidades para a Recursive, pois realizamos a eleição do substituto para o cargo de Diretor de Marketing e também o processo seletivo para Consultor Júnior 2015.1, em que os aprovados na entrevista estão passando por um período avaliativo. Além disso, também tivemos novas oportunidades de trabalho, que serão assunto nos próximos posts.
 
