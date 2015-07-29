@@ -30,29 +30,29 @@ Exemplificando, vamos aplicar a codificação de Huffman para comprimir a palavr
 
 1. Devemos separar os caracteres que compõe a palavra recursividade, calcular suas respectivas frequências de aparições e ordená-las de acordo com este atributo. Como mostra a imagem abaixo.
 
-	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo1.png)
+	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo1.png)
 
 2. Concluído o primeiro passo, devemos utilizar os dois elementos de menor frequência para criar um nó da árvore, este deverá ter a frequência equivalente a soma das frequências dos dois elementos selecionados. Feito isto, o nó deverá ser incluído na lista e a mesma reordenada, no caso, os caracteres de menor frequência são ‘A’ e ‘V’, ambos com 7,69% de frequência. Então, com esses caracteres criei um novo nó ‘n1’ cuja frequência equivale a soma das frequências dos caracteres ‘A’ e ‘V’, feito isto, adicionei o nó na lista e em seguida reordenei seus elementos de acordo com a frequência, como ilustra a imagem abaixo.
 
-	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo2.png)
+	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo2.png)
 
 3. Repete-se o segundo passo até que em nossa lista contenha apenas dois elementos, estes, serão filhos da raiz de nossa árvore. Uma forma de perceber que sua árvore está montada corretamente é verificar se a soma das frequências de seus dois últimos elementos corresponde a 100%. No nosso caso, isto não ocorrerá pois utilizamos apenas duas casas decimais de precisão pós vírgula. Caso tenha dificuldade em trabalhar com porcentagens, pode utilizar a quantidade de vezes que um caractere aparece em seu texto, e no fim, a soma dos dois últimos elementos devem corresponder ao total de caracteres que contém o texto. A figura abaixo mostra como ficou nossa árvore de Huffman.
 
-	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo3.png)
+	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo3.png)
 
 4. Com a árvore pronta, devemos atribuir o valor ‘0’ para cada elemento a esquerda de um nó e ‘1’ para os elementos a direita do nó. Percorrendo a árvore e recolhendo os valores de cada aresta, formamos representações binárias de cada caractere. Como mostra a imagem abaixo.
 
-	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo4.png)
+	![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo4.png)
 
 Escrevendo a mesma palavra utilizando a representação binária que construímos, podemos perceber que houve uma boa economia de *bits*, como mostra a imagem abaixo.
 
 
-![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo5.png)
+![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo5.png)
 
 ## Descompressão ##
 
 Para realizar a descompressão, precisamos da representação binária que formamos anteriormente e claro, da árvore de Huffman que foi utilizada. Partindo da raiz, percorreremos a árvore conforme orienta a representação binária até que encontremos um nó folha. Este nó é o caractere buscado, após encontrá-lo, retornamos à raiz de nossa árvore e repetiremos o processo até que a representação binária termine. Como ilustra a imagem abaixo.
 
-![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/Huffman_passo6.png)
+![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo6.png)
 
 A codificação de Huffman é muito interessante não? Mas hoje pararemos por aqui, fiquem ligados nos *posts* legais que estão rolando no blog da *Recursive* e em breve estarei trazendo mais conteúdo para vocês. Espero que tenham gostado e aprendido, Abraços!
