@@ -12,7 +12,7 @@ Olá galera, me veio a mente de compartilhar algumas informações úteis com vo
 ### Web Semântica ###
 ---
 
-![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/web-semantica.jpg)
+![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/semantica/web-semantica.jpg)
 
 Atualmente, a maior parte das ferramentas de busca resolve suas consultas apenas com base em uma ou mais palavras-chave. Esta característica limita a cobertura e a precisão destas consultas. A cobertura é prejudicada porque recursos relevantes descritos com termos relacionados às palavras-chave usadas na requisição deixam de ser recuperados. Por sua vez, a precisão é prejudicada porque recursos não relevantes que contém as palavras-chaves em sua descrição acabam sendo recuperados. Tal situação ocorre principalmente em consultas envolvendo palavras-chave que possuem mais de um significado.
 
