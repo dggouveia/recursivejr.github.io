@@ -8,6 +8,7 @@ twitter_username: recursivejr
 github_username:  recursivejr
 absolute_url: http://recursive.com.br/
 image_posts_default: images/footer.jpg
+key_words: recursive, software, developer
 
 # Build settings
 markdown: kramdown

@@ -3,14 +3,14 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Recursive - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-	<meta name="description" content="<title>{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</title>" />
-	<meta name="keywords" content="recursive, software, developer" />
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+	<meta name="keywords" content="{% if page.key_words %}{{ page.key_words }}{% else %}{{ site.key_words }}{% endif %}" />
 	<meta property="og:image" content="{{ "/images/nova-recursive.png" | prepend: site.url }}">
 	<meta property="og:image:type" content="image/png">
 	<meta property="og:image:width" content="693">
 	<meta property="og:image:height" content="436">
 	<!-- Favicons (created with http://realfavicongenerator.net/)-->
-	<link rel="icon" href="images/iconSite.png">
+	<link rel="icon" href="{{ "images/iconSite.png" | prepend: site.url }}">
 	<meta name="msapplication-TileColor" content="#00a8ff">
 	<meta name="theme-color" content="#ffffff">
 	<!-- Normalize -->
