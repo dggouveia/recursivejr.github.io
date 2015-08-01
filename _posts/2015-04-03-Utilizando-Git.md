@@ -5,6 +5,9 @@ date:   2015-04-03 12:37:42
 author: Douglas Gabriel
 categories: jekyll update
 comments: true
+image: images/posts/git/cover.png
+key_words: git, bitbucket, github
+description: Neste post você aprenderá como interagir de forma amigável com a ferramenta de controle de versões 'Git' de forma básica e eficiênte nos seus projetos.
 ---
 
 Saudações,
