@@ -12,7 +12,20 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    <!-- Holder for mobile navigation -->
+    <div class="mobile-nav">
+      <ul>
+      </ul>
+      <a href="#" class="close-link"><i class="arrow_up"></i></a>
+    </div>
+    <!-- Scripts -->
+    <script src="{{ "js/jquery-1.11.1.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "js/owl.carousel.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "js/bootstrap.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "js/wow.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "js/typewriter.js" | prepend: site.url }}"></script>
+    <script src="{{ "js/jquery.onepagenav.js" | prepend: site.url }}"></script>
+    <script src="{{ "js/main.js" | prepend: site.url }}"></script>
 
   </body>
 </html>
