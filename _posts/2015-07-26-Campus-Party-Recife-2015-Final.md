@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Campus Party Recife 2015 - Final"
-date:   2015-07-26 
+date:   2015-07-26
 author: Rafael Tavares
 categories: jekyll update
 comments: true
@@ -23,11 +23,13 @@ O destaque do dia foi a magistral Lorrana Scarpioni, ela é a fundadora do [Blii
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/campusparty/CPRecife-F4.jpg)
 
 
-Apesar da evidente diminuição dos patrocínios, a edição desse ano teve boas surpresas e coisas interessantes, a próxima edição do evento no Brasil já está confirmada, acontecerá em São Paulo entre os dias 26 e 31 de janeiro de 2016. Quem sabe não estaremos por lá também. 
+Apesar da evidente diminuição dos patrocínios, a edição desse ano teve boas surpresas e coisas interessantes, a próxima edição do evento no Brasil já está confirmada, acontecerá em São Paulo entre os dias 26 e 31 de janeiro de 2016. Quem sabe não estaremos por lá também.
 
 Obrigado por acompanhar a nossa cobertura e continue a ler o nosso blog e também nos siga nas redes sociais.
 
 Até Mais!
+
+{% include equipe/rafaeltavares.html %}
 
 [Bliive]:http://bliive.com/
 [Muse]:http://meetmuse.com/

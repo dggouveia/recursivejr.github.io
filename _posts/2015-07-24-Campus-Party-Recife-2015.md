@@ -30,3 +30,5 @@ Dado usou essa frase pra comentar a necessidade de constante atualização, que 
 As atividades vão se estender até o domingo, amanhã eu volto para contar pra vocês um pouco do que aconteceu no segundo dia de Campus Party.
 
 Até mais.
+
+{% include equipe/rafaeltavares.html %}

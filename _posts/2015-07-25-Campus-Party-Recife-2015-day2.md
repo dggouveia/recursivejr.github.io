@@ -34,5 +34,7 @@ Veja mais fotos do evento em nosso [instagram].
 
 Até Amanhã.
 
+{% include equipe/rafaeltavares.html %}
+
 [instagram]:https://instagram.com/recursive_jr
 [aqui]:https://www.youtube.com/watch?v=leD9srixeiw

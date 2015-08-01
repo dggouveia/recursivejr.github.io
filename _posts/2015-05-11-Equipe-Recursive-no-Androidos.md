@@ -33,3 +33,5 @@ Foto: Diogo Moreira.
 Todos os membros da *Recursive* presentes no evento aproveitaram ao máximo. Vale ressaltar a importância de iniciativas como o Androidos, que trazem sempre conhecimento e novidades para nós, desenvolvedores, e é a partir de participações em atividades como essas que a *Recusive* contribui para o aprimoramento de seus membros, criando assim, a base para melhoria de seus serviços. E que venha o próximo!
 
 Até mais.
+
+{% include equipe/rafaeltavares.html %}
