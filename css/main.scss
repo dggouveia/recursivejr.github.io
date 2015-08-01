@@ -51,9 +51,18 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+a:hover{
+  text-decoration: none !important;
+}
+
 body{
-	text-align:justify;
-	font-family: Roboto !important;
+  font-family: 'Roboto', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  overflow-x: hidden;
+  color: #2a3237;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: justify;
 }
 
 header{
