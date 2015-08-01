@@ -36,3 +36,5 @@ Até a próxima.
 **BREITMAN**, *Karin K*; **Web Semântica – A Internet do futuro**. Rio de Janeiro: LTC, 2010.
 
 **BERNERS-LEE**, *Tim*; Lassila, O; Hendler, J. **The Semantic Web**. Scientifc American, 284(5): 34-43, 2001. Disponível em: http://scientifcamerican.com/2001/0501issue/0501berners-lee.html.
+
+{% include equipe/rodrigofreitas.html %}

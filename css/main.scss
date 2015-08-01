@@ -82,3 +82,38 @@ body{
 	border-color:white;
 	transition-duration: 0.5s;
 }
+
+.about{
+  border:1px solid #e9eaed;
+  padding:40px 10px;
+  margin:40px 0px ;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.about h4{
+  margin:0px 0px 10px 0px;
+  font-weight: bold;
+}
+
+.about img{
+  border-radius: 100%;
+  box-shadow: 1px 1px 1px grey;
+  width:100px;
+}
+
+.about a{
+  color:#989da0;
+  font-size: 20px;
+  margin:0px 10px 10px 0px;
+}
+
+@media (max-width:768px){
+  .about{
+    text-align:center;
+  }
+
+  .about img{
+    margin-bottom: 10px;
+  }
+}

@@ -82,6 +82,8 @@ Ainda estou descobrindo as funcionalidades do Jekyll, pretendo posteriormente fa
 
 Sem mais, até mais
 
+{% include equipe/douglasgabriel.html %}
+
 [tomPreston]:    http://en.wikipedia.org/wiki/Tom_Preston-Werner
 [jekyll]:        http://jekyllrb.com
 [github]:	     https://github.com

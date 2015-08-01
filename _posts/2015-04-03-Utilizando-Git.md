@@ -181,6 +181,8 @@ Espero tê-los ajudado a manter uma boa relação com este grande amigo dos prog
 
 Sem mais, até mais...
 
+{% include equipe/douglasgabriel.html %}
+
 [Linus]: http://pt.wikipedia.org/wiki/Linus_Torvalds;
 [Windows]:http://git-scm.com/download/win;
 [Linux]:http://git-scm.com/download/linux

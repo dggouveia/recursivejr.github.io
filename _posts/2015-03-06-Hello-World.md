@@ -17,4 +17,6 @@ Além disto, nossos amigos programadores poderão ter acesso a conteúdos refere
 
 Sem mais, até mais
 
+{% include equipe/douglasgabriel.html %}
+
 [recursive]: http://www.recursive.com.br
