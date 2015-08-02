@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Funcionário do mês de Junho"
-date:   2015-07-03 14:29:42
+title:  "Funcionário do mês de Julho"
+date:   2015-08-02 14:29:42
 categories: jekyll update
 comments: true
 image: images/posts/funcmes/cover.png
