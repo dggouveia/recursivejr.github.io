@@ -74,6 +74,20 @@ header img{
   width: 70%;
 }
 
+.post-list li{
+  background-color:white;
+  border:1px solid #e9eaed;
+  margin:10px;
+  height:200px;
+  padding:10px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.post-list .title{
+  font-weight: bold;
+}
+
 .about{
   border:1px solid #e9eaed;
   padding:40px 10px;

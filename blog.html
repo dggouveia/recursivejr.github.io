@@ -10,13 +10,14 @@ image: images/footer.jpg
 
   <ul class="post-list">
     {% for post in site.posts %}
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       <li>
-        <span class="post-meta">{{ post.date | date:  "%d/%m/%Y" }} - </span>
-
-        <!--<h2>-->
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <!--</h2>-->
+        <span class="post-meta">{{ post.date | date:  "%d/%m/%Y" }} - {{ post.author }}</span>
+        <br>
+          <p class="title">{{ post.title }}</p>
+          <p class="description">{{ post.description | truncate:150 }}</p>
       </li>
+      </a>
     {% endfor %}
   </ul>
 

@@ -7,7 +7,7 @@ categories: jekyll update
 comments: true
 image: images/posts/jekyll/cover.png
 key_words: git, github, jekyll, blog
-description: Neste post você como criar, de forma bastante simples, um blog utilizando a ferramenta Jekyll
+description: Neste post você verá como criar, de forma bastante simples, um blog utilizando a ferramenta Jekyll
 ---
 
 Saudações,
