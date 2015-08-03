@@ -56,3 +56,5 @@ Para realizar a descompressão, precisamos da representação binária que forma
 ![](https://raw.githubusercontent.com/recursivejr/recursivejr.github.io/master/images/posts/huffman/Huffman_passo6.png)
 
 A codificação de Huffman é muito interessante não? Mas hoje pararemos por aqui, fiquem ligados nos *posts* legais que estão rolando no blog da *Recursive* e em breve estarei trazendo mais conteúdo para vocês. Espero que tenham gostado e aprendido, Abraços!
+
+{% include equipe/victorhugo.html %}
