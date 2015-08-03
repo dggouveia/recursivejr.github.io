@@ -4,6 +4,9 @@ title:  "Funcionário do mês de Abril"
 date:   2015-05-02 14:29:42
 categories: jekyll update
 comments: true
+image: images/posts/funcmes/cover.png
+key_words: recursive, funcionário
+description: Funcionário do mês de Abril
 ---
 
 <img src="{{ site.absolute_url }}/images/posts/funcmes/funcmesabril.png">
