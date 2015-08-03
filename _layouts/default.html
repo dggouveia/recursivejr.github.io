@@ -8,11 +8,13 @@
   <body>
     {% include header.html %}
 
-    <div class="page-content">
+    <section class="page-content">
+      <div class="cut cut-top"></div>
       <div class="wrapper">
         {{ content }}
       </div>
-    </div>
+      <div class="cut cut-bottom"></div>
+    </section>
 
     <!-- Holder for mobile navigation -->
     <div class="mobile-nav">
@@ -20,6 +22,8 @@
       </ul>
       <a href="#" class="close-link"><i class="arrow_up"></i></a>
     </div>
+
+    {% include footer.html %}
     <!-- Scripts -->
     <script src="{{ "js/jquery-1.11.1.min.js" | prepend: site.url }}"></script>
     <script src="{{ "js/owl.carousel.min.js" | prepend: site.url }}"></script>
