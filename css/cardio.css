@@ -166,12 +166,17 @@ a {
 
 nav.navbar {
 	position: absolute;
+	max-height: 101px !important;
 	z-index: 9500;
 	width: 100%;
 	width: 100vw;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
-	max-height: 101px !important;
+}
+
+.navbar .navbar-brand{
+	width:50px !important;
+	height:28px !important;
 }
 
 nav.navbar .navbar-nav li.active a:not(.btn) {
