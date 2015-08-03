@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adicionando Social Meta Tags ao seu site"
-date:   2015-08-01 21:00:00
+date:   2015-08-03 10:20:00
 author: Douglas Gabriel
 categories: jekyll update
 comments: true
