@@ -1,6 +1,6 @@
 
 myProjects([
-	{"section":["sites"],"name":"Site II ECMAT","description":"Site desenvolvido para o Segundo Encontro Cajazeirense de Matemática, realizado pelo IFPB - Campus Cajazeiras", "link":"http://ecmat2015.com.br/", "logo":"img/iiecmat.jpg"},
+	{"section":["sites"],"name":"Site II ECMAT","description":"Site desenvolvido para o Segundo Encontro Cajazeirense de Matemática, realizado pelo IFPB - Campus Cajazeiras", "link":"ecmat.html", "logo":"img/iiecmat.jpg"},
 	{"section":["sites"],"name":"Site VIII SCT", "description":"Site desenvolvido para a 8ª Semana de Ciência e Tecnologia, realizada pelo IFPB - Campus Cajazeiras",  "link":"http://recursivejr.github.io/site-sct/", "logo":"img/viiisct.png"},
 	{"section":["aplicativos"],"name":"SIB", "description":"Sistema Bibliotecário utilizado pelo IFPB - Campus Cajazeiras", "link":"", "logo":"img/sib.jpg"},
 	{"section":["sites"],"name":"Site Faculdade Santa Maria", "description":"Site institucional desenvolvido para a Faculdade Santa Maria, Cajazeiras - PB", "link":"http://www.fsm.edu.br/index.php", "logo":"img/fsm.png"},
